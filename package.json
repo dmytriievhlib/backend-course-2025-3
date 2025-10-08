@@ -2,12 +2,13 @@
   "name": "backend-course-2025-3",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hlib Dmytriiev bc2025-3",
   "license": "ISC",
   "dependencies": {
     "commander": "^14.0.1"
